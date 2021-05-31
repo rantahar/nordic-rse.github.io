@@ -9,6 +9,8 @@ We are planning an online unconference on June 29–30. The program will consist
 
 ## Dates: June 29-30, 13-16 CET (3 + 3 hours)
 
+#### [Click here to register](https://indico.neic.no/event/158/)
+
 ## Format and goal and scope
 
 We will run an informal unconference to bring the community of research software
@@ -29,7 +31,7 @@ Here are some examples of possible contributions:
 - Discussion topics (about software, the research software community, or anything related to RSEs)
 - Demonstrations (tools you like, software you wrote)
 - Quick workshops or reprohacks (only 3 hours in a day)
-- Talks 
+- Talks
 - Workshops and lessons: teach us something new
 - Can also be something unfinished and almost working where you would like to get feedback on
 
